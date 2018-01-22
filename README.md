@@ -7,8 +7,11 @@ https://github.com/wangshub/wechat_jump_gam
 https://github.com/wangshub/wechat_jump_gam
 
 有时候会把白色的小点识别成物件， 是微信的干扰吗？
+
 ![](./resource/image/wechatJump1.png)
+
 扫描后可以发现在中间出现一个被识别成黄色的点
+
 ![](./resource/image/wechatJump2.png)
 
 
