@@ -35,3 +35,4 @@ https://github.com/wangshub/wechat_jump_gam
 ```
 
 
+## 仅更新了 wechat_jump_auto.py
